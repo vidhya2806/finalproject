@@ -1,0 +1,42 @@
+first,last,topics,department,currentyear,joining
+
+Hannah,Abbott,Web Development,IT ,year1,2019
+
+Katie,Bell,Programming,IT ,year1, 2019
+
+Susan,Bones,Mobile Computing,CSE ,year4,2022
+
+Terry,Boot,Data Mining,CSE ,year3,2021
+
+Lavender,Brown,Home Automation,EEE ,year1,2019
+
+Millicent,Bulstrode,Robotic,EEE ,year1,2019
+
+Cho,Chang,Robotic,EEE ,year2,2020
+
+Penelope,Clearwater,Network Simulation ,Other Department,year1,2019
+
+Vincent,Crabbe,Electronic Power Steering,ME ,year2,2020
+
+Colin,Creevey,Automatic Gear Changer,ME ,year3,2021
+
+Dennis,Creevey,Image Processing,ECE ,year4,2022
+
+Cedric,Diggory,App Development,IT ,year2,2020
+
+Marietta,Edgecombe,Home Automation,EEE ,year1,2019
+
+Justin,Finch-Fletchley,Home Automation,EEE ,year2,2020
+
+Seamus,Finnigan,Image Processing,ECE ,year3,2021
+
+Anthony,Goldstein,Home Automation,EEE ,year4,2022
+
+Gregory,Goyle,Integrated Circuit,ECE ,year4,2022
+
+Hermione,Granger,Image Processing,ECE ,year3,2021
+
+Angelina,Johnson,Automatic Gear Changer,ME ,year4,2022
+
+Lee,Jordan,Electronic Power Steering,ME ,year2,2020
+
